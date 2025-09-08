@@ -1,22 +1,5 @@
-# Node.js API 中文文档
+# Firebase Studio
 
-### 译者
+This is a NextJS starter in Firebase Studio.
 
-[DavidCai1993](https://github.com/DavidCai1993)
-
-### 贡献
-
-[项目 github repo](https://github.com/DavidCai1993/nodejs-api-doc)
-
-欢迎纠错，欢迎发Pull request，同时也欢迎star，欢迎follow。
-
-### 贡献者
-
->排名不分先后
-
-- [jnduan](https://github.com/jnduan)
-- [caizixian](https://github.com/caizixian)
-- [Richardwei](https://github.com/richardwei195)
-
-### License
-The MIT License (MIT)
+To get started, take a look at src/app/page.tsx.
